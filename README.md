@@ -1,4 +1,3 @@
-# chess
 # ♟️ Welcome to My GitHub Profile! 
 
 ### Play Chess Against Me! 
